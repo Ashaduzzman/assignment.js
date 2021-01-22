@@ -32,3 +32,18 @@ function bugetCalculator(laptop) {
 var laptop =bugetCalculator(500);
 console.log(laptop);
 // bugetCalculator end here
+
+// megaFriend start here 
+let megaFriend = new Array();
+
+megaFriend[0] = "akash";
+
+megaFriend[1] = "abbiplpb";
+
+megaFriend[2] = "shakil";
+
+megaFriend[3] = "ashaduzzman";
+megaFriend.length;
+
+console.log(megaFriend.length);
+// megaFriend end here
